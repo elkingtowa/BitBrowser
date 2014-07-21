@@ -1,9 +1,6 @@
 BitBrowser
 
 [![Build Status](https://travis-ci.org/mtigas/iOS-OnionBrowser.png)](https://travis-ci.org/mtigas/iOS-OnionBrowser)  
-[Official Site][official] | [Support][help] | [Changelog][changelog]  
-&copy; 2012-2014 [Mike Tigas][miketigas] ([@mtigas](https://twitter.com/mtigas))  
-[MIT License][license]
 
 A minimal, open-source web browser for iOS that tunnels web traffic through
 the [Tor network][tor]. See the [official site][official] for more details
@@ -11,16 +8,13 @@ and App Store links.
 
 ---
 
-* **OnionBrowser**: 1.5.3 (20140630.1) — [See changelog][changelog]
+* **BitBrowser**: 0.0.0 (20140720.1) — [See changelog][changelog]
 * **[Tor][tor]**: 0.2.4.22 (May 16 2014)
 * **[libevent][libevent]**: 2.0.21-stable (Nov 18 2012)
 * **[OpenSSL][openssl]**: 1.0.1h (Jun 05 2014)
 
-[official]: http://onionbrowser.com/
 [help]: http://onionbrowser.com/help/
-[changelog]: https://raw.github.com/mtigas/iOS-OnionBrowser/master/CHANGES.txt
-[miketigas]: https://mike.tig.as/
-[license]: https://github.com/mtigas/iOS-OnionBrowser/blob/master/LICENSE
+[license]: https://github.com/elkingtowa/BitBrowser/blob/master/LICENSE
 [tor]: https://www.torproject.org/
 [libevent]: http://libevent.org/
 [openssl]: https://www.openssl.org/
